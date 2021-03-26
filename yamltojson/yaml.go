@@ -5,8 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	// This is a fork of gopkg.in/yaml.v2 that fixes anchors with MapSlice
-	"github.com/buildkite/yaml"
+	yaml "gopkg.in/yaml.v2"
 )
 
 func MarshalMapSliceJSON(m yaml.MapSlice) ([]byte, error) {

@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/buildkite/agent/v3/yamltojson"
-	"github.com/buildkite/yaml"
+	yaml "gopkg.in/yaml.v2"
 	"github.com/qri-io/jsonschema"
 )
 

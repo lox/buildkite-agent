@@ -11,8 +11,7 @@ import (
 	"github.com/buildkite/agent/v3/yamltojson"
 	"github.com/buildkite/interpolate"
 
-	// This is a fork of gopkg.in/yaml.v2 that fixes anchors with MapSlice
-	yaml "github.com/buildkite/yaml"
+	yaml "gopkg.in/yaml.v2"
 )
 
 type PipelineParser struct {

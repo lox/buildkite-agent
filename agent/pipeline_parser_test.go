@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/buildkite/agent/v3/env"
-	"github.com/buildkite/yaml"
+	yaml "gopkg.in/yaml.v2"
 	"github.com/stretchr/testify/assert"
 )
 
