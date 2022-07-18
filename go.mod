@@ -5,7 +5,7 @@ go 1.14
 require (
 	cloud.google.com/go v0.0.0-20170217213217-65216237311a
 	github.com/DataDog/datadog-go v3.7.2+incompatible
-	github.com/aws/aws-sdk-go v1.43.18
+	github.com/aws/aws-sdk-go v1.44.57
 	github.com/buildkite/bintest/v3 v3.1.0
 	github.com/buildkite/interpolate v0.0.0-20200526001904-07f35b4ae251
 	github.com/buildkite/shellwords v0.0.0-20180315084142-c3f497d1e000
@@ -13,7 +13,6 @@ require (
 	github.com/creack/pty v1.1.12
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/denisbrodbeck/machineid v1.0.0
-	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135
 	github.com/google/uuid v1.1.2 // indirect
 	github.com/googleapis/gax-go v0.0.0-20161107002406-da06d194a00e // indirect
