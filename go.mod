@@ -28,7 +28,7 @@ require (
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
 	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
 	golang.org/x/sys v0.0.0-20220624220833-87e55d714810
-	google.golang.org/api v0.86.0
+	google.golang.org/api v0.93.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.40.0
 )
 
